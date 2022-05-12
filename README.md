@@ -5,3 +5,6 @@
 
 # RxSwift
 - [Combining Operators - CombineLatest, Zip, Concat](https://github.com/jane1choi/TIL/issues/3)
+
+# Design Pattern
+- [구조 패턴 - Adapter Pattern](https://github.com/jane1choi/TIL/issues/5)
