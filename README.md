@@ -2,6 +2,7 @@
 > 딱 한 가지만 지킨다. 평일 중 매일 1가지의 TIL을 기록하고 자정이 되면 그 내용을 공유한다.
 # iOS
 - [iPhone 해상도별 기기대응을 좀 더 쉽게 해보자](https://github.com/jane1choi/TIL/issues/1)
+- [UIView를 이용해 TableView의 Section Header처럼 보이도록 화면 구성하기](https://github.com/jane1choi/TIL/issues/8)
 
 # Swift
 - [타입 추론과 타입 어노테이션](https://github.com/jane1choi/TIL/issues/7)
