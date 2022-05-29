@@ -16,5 +16,8 @@
 # Design Pattern
 - [구조 패턴 - Adapter Pattern](https://github.com/jane1choi/TIL/issues/5)
 
+# Algorithm
+- [Swift로 알고리즘 문제를 풀기 위해 필요한 Basic 문법](https://github.com/jane1choi/TIL/issues/10)
+
 # OOP
 - [DI(의존성 주입) in Swift](https://github.com/jane1choi/TIL/issues/4)
