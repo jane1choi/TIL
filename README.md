@@ -7,7 +7,7 @@
 # Swift
 - [타입 추론과 타입 어노테이션](https://github.com/jane1choi/TIL/issues/7)
 - [반복문](https://github.com/jane1choi/TIL/issues/12)
-- [값 타입과 참조 타입(Value Type vs Reference Type)] (https://github.com/jane1choi/TIL/issues/15)
+- [값 타입과 참조 타입(Value Type vs Reference Type)](https://github.com/jane1choi/TIL/issues/15)
 
 # RxSwift
 - [Combining Operators - CombineLatest, Zip, Concat](https://github.com/jane1choi/TIL/issues/3)
