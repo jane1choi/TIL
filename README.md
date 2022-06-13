@@ -23,6 +23,7 @@
 - [Swift로 알고리즘 문제를 풀기 위해 필요한 Basic 문법](https://github.com/jane1choi/TIL/issues/10)
 - [Brute Force(완전 탐색)](https://github.com/jane1choi/TIL/issues/11)
 - [BackTracking](https://github.com/jane1choi/TIL/issues/13)
+- [Greedy](https://github.com/jane1choi/TIL/issues/17)
 
 # OOP
 - [DI(의존성 주입) in Swift](https://github.com/jane1choi/TIL/issues/4)
