@@ -9,6 +9,7 @@
 - [반복문](https://github.com/jane1choi/TIL/issues/12)
 - [값 타입과 참조 타입(Value Type vs Reference Type)](https://github.com/jane1choi/TIL/issues/15)
 - [In-Out Parameters](https://github.com/jane1choi/TIL/issues/16)
+- [타입 캐스팅 (Type Casting)](https://github.com/jane1choi/TIL/issues/18)
 
 # RxSwift
 - [Combining Operators - CombineLatest, Zip, Concat](https://github.com/jane1choi/TIL/issues/3)
