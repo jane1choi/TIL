@@ -11,6 +11,7 @@
 - [In-Out Parameters](https://github.com/jane1choi/TIL/issues/16)
 - [타입 캐스팅 (Type Casting)](https://github.com/jane1choi/TIL/issues/18)
 - [Any와 AnyObject](https://github.com/jane1choi/TIL/issues/19)
+- [Generic](https://github.com/jane1choi/TIL/issues/14)
 
 # RxSwift
 - [Combining Operators - CombineLatest, Zip, Concat](https://github.com/jane1choi/TIL/issues/3)
