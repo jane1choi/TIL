@@ -21,6 +21,7 @@
 
 # Design Pattern
 - [구조 패턴 - Adapter Pattern](https://github.com/jane1choi/TIL/issues/5)
+- [생성 패턴 - Builder Pattern](https://github.com/jane1choi/TIL/issues/21)
 
 # Algorithm
 - [Swift로 알고리즘 문제를 풀기 위해 필요한 Basic 문법](https://github.com/jane1choi/TIL/issues/10)
