@@ -4,6 +4,7 @@
 - [iPhone 해상도별 기기대응을 좀 더 쉽게 해보자](https://github.com/jane1choi/TIL/issues/1)
 - [UIView를 이용해 TableView의 Section Header처럼 보이도록 화면 구성하기](https://github.com/jane1choi/TIL/issues/8)
 - [Lottie를 이용한 로딩 뷰 삽입](https://github.com/jane1choi/TIL/issues/20)
+- [UIWindow](https://github.com/jane1choi/TIL/issues/22)
 
 # Swift
 - [타입 추론과 타입 어노테이션](https://github.com/jane1choi/TIL/issues/7)
